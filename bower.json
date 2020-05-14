@@ -1,7 +1,7 @@
 {
     "name": "adapt-question-feedback",
     "repository": "git://github.com/gowithfloat/adapt-question-feedback.git",
-    "framework": "^2.0.0",
+    "framework": "^4.0.0",
     "homepage": "https://github.com/gowithfloat/adapt-question-feedback",
     "issues": "https://github.com/gowithfloat/adapt-question-feedback/issues",
     "version": "0.3.2",
